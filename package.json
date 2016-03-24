@@ -1,0 +1,30 @@
+{
+  "name": "left-pad.io-client",
+  "version": "0.0.3",
+  "description": "RESTful String left pad",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "leftpad",
+    "left",
+    "pad",
+    "padding",
+    "string",
+    "REST"
+  ],
+  "repository": {
+    "url": "git@github.com:malixsys/left-pad.io-client.git",
+    "type": "git"
+  },
+  "author": "malixsys",
+  "maintainers": [],
+  "license": "WTFPL",
+  "dependencies": {
+    "sync-request": "^3.0.0"
+  },
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
